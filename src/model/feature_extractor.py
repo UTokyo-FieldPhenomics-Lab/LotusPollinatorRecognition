@@ -38,7 +38,7 @@ class FeatureExtractor:
 
         if model_architecture in ["DinoV3",]:
             if self.extraction_stage == "final":
-                self.model = pipeline(model="facebook/dinov3-vitb16-pretrain-lvd1689m", task="image-feature-extraction", token='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')
+                self.model = pipeline(model="facebook/dinov3-vitb16-pretrain-lvd1689m", task="image-feature-extraction", token='')
 
     def get_features_from_imgpath(self, image_path: str):
         """
