@@ -15,6 +15,7 @@ models/
 
 4. Run
 
-Here is the code for Google Colab: 
+Here is the code for Google Colab:   
+Please upload "test.ipynb" to Colab to test the performance.   
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/UTokyo-FieldPhenomics-Lab/LotusPollinatorRecognition/blob/main/test.ipynb) <br> 
 
