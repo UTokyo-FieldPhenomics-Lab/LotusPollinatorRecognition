@@ -15,8 +15,4 @@ models/
 
 4. Run
 
-python run_example.py \
-    --input examples/input \
-    --output examples/output \
-    --flower_model models/flower_detector.pt \
-    --insect_model models/insect_detector.pt
+Here is the code for Google Colab. 
